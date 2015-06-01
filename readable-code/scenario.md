@@ -59,8 +59,11 @@ OSS開発ではリーダブルなコードが重要だからです。多くのOS
 
   * 参加者は開発言語別にグループ分けされていること
     * 座席を事前に決めておくのでそこに座ってもらう
-  * 参加者はGitHubアカウントの名札をつけていること
-  * 早く着いた人は [課題](task.md) の説明を読んでいてもらう
+  * 参加者はGitHubアカウントが書かれた名札をつけていること
+  * 早く着いた参加者には [シナリオ](scenario.md) または [課題](task.md) の説明を読んでいてもらう
+  * メンターはGitHubアカウントが書かれた名札をつけていること
+    * 開発に参加しているOSSのプロダクト名も書かれているとなおよい
+  * メンターは「${自分のアカウント名}-sezemi-2015-readable-code」というリポジトリーを作っておくこと
 
 ## 10:00 アイスブレーク1
 
@@ -86,17 +89,11 @@ OSS開発ではリーダブルなコードが重要だからです。多くのOS
     （スライドはicebreaker/や↓を参照。）
     * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-icebreaker/)
     * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-icebreaker)
-    * この間にメンターは自分のGitHubアカウントで
-      「${自分のアカウント名}-sezemi-2014-readable-code-2」
-      というリポジトリーを作る。
     * リポジトリーにREADME.mdを作り、次の内容を書く。
       * 担当グループの開発言語。
       * メンターの自己紹介。
-      * 参加者リストを書くプレースホルダー。
-        ここに参加者のリポジトリーを集める。方法は後述。
-      * 参加者リストを集めるIssueを作成する。
   * 自分のGitHubアカウントで
-    「${自分のアカウント名}-sezemi-2014-readable-code-2」
+    「${自分のアカウント名}-sezemi-2015-readable-code」
     というリポジトリーを作る。
   * 「README.md」を作って、そこに開発言語を書いてcommit & pushする。
     * プログラムを書く時に使うテキストエディターやIDEを使うこと。
@@ -105,23 +102,17 @@ OSS開発ではリーダブルなコードが重要だからです。多くのOS
     * プログラムを書く時に使うテキストエディターやIDEを使うこと。
     * 誰でも見れる状態になるので、公開情報だけ書くように注意喚起すること。
   * pushしたらメンターに自分のリポジトリーを伝える。伝え方は以下のどれか。
-    * メンターのリポジトリーのREADME.mdに自分のリポジトリーを追記してpull request。
     * メンターのリポジトリーのIssueに自分のリポジトリーのURLを書き込む。
+      書き込んだらメンターに確認してもらう。
     * メンターに口頭で自分のリポジトリーを伝える。
-  * 自分のリポジトリーを伝えたらメンターの自己紹介を確認してください。
-    * 今日は主にこのメンターにお世話になります。
   * メンターが全員のリポジトリーを集めたら終了！
   * 時間が余ったら、グループでまだ終わっていない人をサポートしよう。
+  * グループの人が全員できたら [シナリオ](scenario.md) または
+    [課題](task.md) を予習。
 
 ヒント:
 
   * グループでつまづいている人がいたら助けてあげよう。
-  * 他のグループより先に終わったら他のメンターの自己紹介文も読もう。
-    * [川原さん](https://github.com/kawahara/kawahara-sezemi-2014-readable-code-2)
-    * [たなべさん](https://github.com/sunaot/sunaot-sezemi-2014-readable-code-2)
-    * [結城さん](https://github.com/piroor/piroor-sezemi-2014-readable-code-2)
-    * [沖元さん](https://github.com/okkez/okkez-sezemi-2014-readable-code-2)
-    * [須藤](https://github.com/kou/kou-sezemi-2014-readable-code-2)
 
 ## 10:20 進め方の説明
 

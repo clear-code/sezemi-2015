@@ -5,9 +5,9 @@
 : institution
    株式会社クリアコード
 : content-source
-   SEゼミ2014 - リーダブルコード勉強会2
+   SEゼミ2015 - リーダブルコード勉強会
 : date
-   2014/07/06
+   2015-06-06
 : allotted-time
    15m
 : theme
@@ -24,9 +24,9 @@
 GitHubにリポジトリーを作る
 
   名前:
-    ${アカウント名}-sezemi-2014-readable-code-2
+    ${アカウント名}-sezemi-2015-readable-code
   例:
-    kou-sezemi-2014-readable-code-2
+    kou-sezemi-2015-readable-code
 
 = やること2
 
@@ -48,25 +48,23 @@ GitHubにリポジトリーを作る
 
   * メンターに\n
     自分のリポジトリーを伝える
-    * pull request
-    * issueにコメント
+    * issueにコメント→\n
+      メンターに確認してもらう
     * 口頭
 
 = 終わったら…
 
-  * メンターの自己紹介を読む
-  * 同じグループの人の\n
-    自己紹介を読む
-    * メンターのREADME.md参照
   * 同じグループの\n
     まだできていない人を助ける
+  * 同じグループの人が全員完了→
+    * シナリオを予習\n
+      (('note:https://github.com/clear-code/sezemi-2015/blob/master/readable-code/scenario.md'))
+    * 課題を予習\n
+      (('note:https://github.com/clear-code/sezemi-2015/blob/master/readable-code/task.md'))
 
 = 確認
 
   * 動作確認できたか
     * いつものエディターを使えた？
     * Git/GitHubを使えた？
-  * まわりのこと
-    * メンターのことを知れた？
-    * メンバーのことを知れた？
   * いつも通りコードを書けそう？
