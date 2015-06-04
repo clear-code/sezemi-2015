@@ -1,6 +1,6 @@
-= SEゼミ2014 - コードチェンジ
+= SEゼミ2015 - コードチェンジ
 
-2014年のSEゼミの「プログラミングが好きな学生のためのリーダブルコード勉
+2015年のSEゼミの「プログラミングが好きな学生のためのリーダブルコード勉
 強会」のコードチェンジのやり方の説明。
 
 == ライセンス
@@ -25,9 +25,9 @@ CC BY-SA 4.0
 
 === インストール
 
-  gem install rabbit-slide-kou-sezemi-2014-readable-code-2-icebreaker
+  gem install rabbit-slide-kou-sezemi-2015-readable-code-icebreaker
 
 === 表示
 
-  rabbit rabbit-slide-kou-sezemi-2014-readable-code-2-icebreaker.gem
+  rabbit rabbit-slide-kou-sezemi-2015-readable-code-icebreaker.gem
 
