@@ -123,8 +123,8 @@ OSS開発ではリーダブルなコードが重要だからです。多くのOS
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
     （スライドはicebreaker/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-icebreaker/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-icebreaker)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-icebreaker/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-icebreaker)
     * リポジトリーにREADME.mdを作り、次の内容を書く。
       * 担当グループの開発言語。
       * メンターの自己紹介。
@@ -154,8 +154,8 @@ OSS開発ではリーダブルなコードが重要だからです。多くのOS
 
 introduction/以下にあるスライドを参照。
 
-  * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-introduction/)
-  * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-introduction)
+  * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-introduction/)
+  * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-introduction)
 
 ## 10:35 練習
 
@@ -179,8 +179,8 @@ introduction/以下にあるスライドを参照。
   * トレーナーはスライドを使いながら[課題](task.md)の最初に書いている概
     要と進め方を説明します。（スライドはexercise/や↓を参照。）
     （大事なことなので今日の目的はなんなのかを重点的に説明します。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-exercise/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-exercise)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-exercise/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-exercise)
   * 実際に仕様1を実装してください。
   * 課題は「${自分のアカウント名}-sezemi-2015-readable-code」に
     commit & pushしていってください。
@@ -238,7 +238,7 @@ introduction/以下にあるスライドを参照。
     memo.mdにメモしておく。後半でメンターが見つけたリーダブルコードを
     紹介する時間があり、そこで使えるからです。
 
-## 12:00 （昼食: フリークアウト様ご提供の無料ランチ！）
+## 12:00 （昼食: フリークアウトさんご提供の無料ランチ！）
 
 スポンサー（と運営）の人と一緒にランチを食べます。いろんなことを聞くチャ
 ンスです。
@@ -251,7 +251,12 @@ introduction/以下にあるスライドを参照。
 
 スポンサー・メンター・インターンなどを知る機会です。1社5分ほどお話があります。
 
-（登壇予定: クラウドワークス / トレジャーデータ / フリークアウト）
+登壇予定:
+
+  * クラウドワークスさん
+  * トレジャーデータさん
+  * フリークアウトさん
+  * ピクシブさん
 
 ## 13:30 メビュー
 
@@ -292,8 +297,8 @@ introduction/以下にあるスライドを参照。
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
     （スライドはcode-change/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-code-change/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-code-change)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-code-change/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-code-change)
   * 参加者が「リーダブルなコード」を見つけること。
     * 後でまとめるので、「リーダブルなコード」と判断した理由や、どのよ
     うにして「リーダブルなコード」を見つけたか（どうやって気付いたか）
@@ -347,8 +352,8 @@ introduction/以下にあるスライドを参照。
 やること:
 
   * スライドを使ってやることを説明（retrospective/以下にあるスライドを参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-retrospective/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-retrospective)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-retrospective/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-retrospective)
   * グループでリーダブルなコードとその理由を共有
     * メンターはグループが悪いコード自慢に終始しないようにいい感じに誘導して欲しい。
     * グループのだれか1人を選ぶ（誰でもよい）
@@ -438,8 +443,8 @@ introduction/以下にあるスライドを参照。
 
 conclusion/以下にあるスライドを参照。
 
-  * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2014-readable-code-2-conclusion/)
-  * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2014-readable-code-2-conclusion)
+  * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-readable-code-conclusion/)
+  * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-readable-code-conclusion)
 
 ## 17:00 質疑応答
 
