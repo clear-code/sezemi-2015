@@ -206,7 +206,7 @@ OSSはメンターが開発に関わっているOSSにします。メンター�
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
     （スライドはfeedback/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-4-feedback/)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-4-beginners-feedback/)
     * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-4-beginners-feedback)
 
 やること：
@@ -246,7 +246,7 @@ OSSはメンターが開発に関わっているOSSにします。メンター�
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
     （スライドはconclusion/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-4-conclusion/)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-4-beginners-conclusion/)
     * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-4-beginners-conclusion)
 
 やること：
