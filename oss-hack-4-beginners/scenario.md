@@ -135,6 +135,8 @@ OSSはメンターが開発に関わっているOSSにします。メンター�
       * C: [Groonga](http://groonga.org/ja/)
       * Python: [Pikzie](http://pikzie.sourceforge.net/index.html.ja)
       * Node.js: [Sharetary](https://github.com/clear-code/sharetary)
+      * PHP（英語に苦手意識がないなら）: [HTTP Accept-Language](https://github.com/zonuexe/php-http-accept-language)
+      * PHP（英語に苦手意識があるなら）: [rws-php-sdk](https://github.com/rakuten-ws/rws-php-sdk)
 
 ## 11:00 対象OSSを動かす
 
