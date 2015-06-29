@@ -1,0 +1,77 @@
+= アイスブレーク
+
+: author
+   須藤功平
+: institution
+   株式会社クリアコード
+: content-source
+   SEゼミ2015 - リーダブルコード勉強会
+: date
+   2015-06-06
+: allotted-time
+   15m
+: theme
+   clear-code
+
+= 目的
+
+いつも通り\n
+コードを書ける\n
+ようになる
+
+= やること1
+
+GitHubにリポジトリーを作る
+
+  名前:
+    ${アカウント名}-sezemi-2015-readable-code
+  例:
+    kou-sezemi-2015-readable-code
+
+作ったらメンターへ確認依頼
+
+(('note:メンターへ：自分のリポジトリーも作ってください'))
+
+= やること2
+
+  * ((*README.md*))を作る
+    * 内容は開発言語
+    * 今日使うエディターで書くこと！
+  * commit & push
+  * pushしたらメンターへ確認依頼
+
+= やること3
+
+  * ((*${アカウント名}.md*))を作る
+    * 例: ((*kou.md*))
+    * 内容：自己紹介(('note:（公開してよい情報のみ）'))
+    * ((*今日使うエディターで書くこと！*))
+  * commit & push
+  * pushしたらメンターへ確認依頼
+
+= やること4
+
+  * メンターに\n
+    自分のリポジトリーを伝える
+    * メンターのリポジトリーの\n
+      Issueにコメント
+    * →メンターに確認してもらう
+
+(('note:メンターへ：Issueは参加者に立ててもらってもOK'))
+
+= 終わったら…
+
+  * 同じグループの\n
+    まだできていない人を助ける
+  * 同じグループの人が全員完了→
+    * シナリオを予習\n
+      (('note:https://github.com/clear-code/sezemi-2015/blob/master/readable-code/scenario.md'))
+    * 課題を予習\n
+      (('note:https://github.com/clear-code/sezemi-2015/blob/master/readable-code/task.md'))
+
+= 確認
+
+  * 動作確認できたか
+    * いつものエディターを使えた？
+    * Git/GitHubを使えた？
+  * いつも通りコードを書けそう？
