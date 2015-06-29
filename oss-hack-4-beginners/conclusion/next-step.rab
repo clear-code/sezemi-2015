@@ -157,3 +157,13 @@ OSS Hack Weekend\n
   * コミットメールサービスを利用
     * http://www.commit-email.info/
     * GitHub: kou/commit-email.info
+
+= おまけ：OSSは直せる！
+
+  * OSSのよいところ（の1つ）
+    * ((*自分で直せる！*))
+    * すべてのOSSは↑ができる\n
+      (('note:（オープンソースの定義にそんな条件が含まれている）'))
+    * 文句を言うんじゃなく、\n
+      Webで調べて回避策を駆使じゃなく\n
+      ((*自分で直せる！*))
