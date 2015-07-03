@@ -5,9 +5,9 @@
 : institution
    株式会社クリアコード
 : content-source
-   SEゼミ2015 - リーダブルコード勉強会
+   リーダブルコード勉強会 in 筑波大
 : date
-   2015-06-06
+   2015-07-04
 : allotted-time
    15m
 : theme
@@ -24,9 +24,9 @@
 GitHubにリポジトリーを作る
 
   名前:
-    ${アカウント名}-sezemi-2015-readable-code
+    ${アカウント名}-readable-code-tsukuba
   例:
-    kou-sezemi-2015-readable-code
+    kou-readable-code-tsukuba
 
 作ったらメンターへ確認依頼
 

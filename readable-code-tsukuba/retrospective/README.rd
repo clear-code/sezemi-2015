@@ -1,7 +1,6 @@
-= SEゼミ2015 - リーダブルコード勉強会のグループふりかえり
+= リーダブルコード勉強会 in 筑波大のグループふりかえり
 
-2015年のSEゼミの「プログラミングが好きな学生のためのリーダブルコード勉
-強会」のグループふりかえりのやり方の説明。
+リーダブルコード勉強会 in 筑波大グループふりかえりのやり方の説明。
 
 == ライセンス
 
@@ -25,9 +24,9 @@ CC BY-SA 4.0
 
 === インストール
 
-  gem install rabbit-slide-kou-sezemi-2015-readable-code-retrospective
+  gem install rabbit-slide-kou-readable-code-tsukuba-retrospective
 
 === 表示
 
-  rabbit rabbit-slide-kou-sezemi-2015-readable-code-retrospective.gem
+  rabbit rabbit-slide-kou-readable-code-tsukuba-retrospective.gem
 

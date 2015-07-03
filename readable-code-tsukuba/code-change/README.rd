@@ -1,7 +1,6 @@
-= SEゼミ2015 - コードチェンジ
+= リーダブルコード勉強会 in 筑波大 - コードチェンジ
 
-2015年のSEゼミの「プログラミングが好きな学生のためのリーダブルコード勉
-強会」のコードチェンジのやり方の説明。
+リーダブルコード勉強会 in 筑波大のコードチェンジのやり方の説明。
 
 == ライセンス
 
@@ -25,9 +24,9 @@ CC BY-SA 4.0
 
 === インストール
 
-  gem install rabbit-slide-kou-sezemi-2015-readable-code-icebreaker
+  gem install rabbit-slide-kou-readable-code-tsukuba-icebreaker
 
 === 表示
 
-  rabbit rabbit-slide-kou-sezemi-2015-readable-code-icebreaker.gem
+  rabbit rabbit-slide-kou-readable-code-tsukuba-icebreaker.gem
 
