@@ -66,8 +66,8 @@
 
   * ((*グループにとっての*))\n
     リーダブルコードを2つ選ぶ
-    * 共有したコードの中から選抜
     * リーダブルは読む人によって違う！
+    * ((*自分にとって*))じゃないよ！
   * clear-code/sezemi-2015の\n
     Issue #19に報告\n
     (('note:https://github.com/clear-code/sezemi-2015/issues/19'))
