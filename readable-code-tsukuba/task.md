@@ -588,7 +588,7 @@ READMEを読めば、グループの他の人でもユーザー名を指定で�
     10: チョコケーキ 薄力粉とココアと卵とバターをまぜて焼く
     11: スイートポテト 蒸したさつまいもと砂糖とバターと生クリームをまぜて焼く
     12: 杏仁豆腐 牛乳と砂糖をまぜてゼラチンで固める
-    % ./recipe.sh kou recipe-data1.txt piro recipe-data2.txt okkez recipe-data3.txt sunaot recipe-data4.txt 5
+    % ./recipe.sh kou recipe-data1.txt piro recipe-data2.txt okkez recipe-data3.txt kou recipe-data4.txt 5
     ユーザー名: kou
 
     ユーザー名: piro
