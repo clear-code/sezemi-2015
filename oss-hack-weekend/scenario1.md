@@ -106,9 +106,9 @@ OSSとします。
 目的のために達成したいこと：
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
-    （スライドはoverview/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-overview/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-overview)
+    （スライドはoverview1/や↓を参照。）
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-overview1/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-overview1)
   * 一通りの流れがわかる
     * 頭でわかる（知識としてわかる）
     * 見てわかる（実際に自分ができなくてもいい。頭でわかったと思ったことが実際に行われていると知覚できればそれでいい。）
@@ -131,37 +131,40 @@ OSSとします。
 
 目的：
 
-  * 参加者がこのイベントでの開発の方向性を決めること
+  * 準備運動
+    * 対象OSSのことを改めて理解してイベント中に全力を出せるようにする
 
 目的のために達成したいこと：
 
-  * 1時間後にこのイベントで目指すことをまとめられること
+  * 「まず動かす」
 
 やること：
 
   * まず動かす
-    * 改善点を見つけたらメモする
-  * 自分が抱えている問題・改善案を整理する
-  * ↑がないならissue・pull requestを確認する
+    * 詰まったらログに残す（直すべき問題の種になる）
+    * 作業内容が変わったらログに残す
+    * ここまででも十分
+  * ↑をちゃんとやった上で速く終わったら
+    * 開発者用にインストール
+    * テストを実行
+    * ↑のときもログを残す
 
-## 11:30 目標設定
+## 11:45 ミニふりかえり
 
 目的：
 
-  * イベント中でやることを見失わないよう目標を立てること
-    * やることを見失わないことが目的なので、見失わないなら途中で方向転
-      換してもよい
+  * ふりかえりのリハーサル
+    * 作業ログが後で自分の役に立つことを実感してもらう
+  * 今後進むべき方向を確認して、午後を有意義に過ごすため
 
 目的のために達成したいこと：
 
-  * issueに目標を書く
+  * 「まず動かす」のときに作業ログをとる
 
 やること：
 
-  * [issue XX]()を参考にclear-code/sezemi-2015に次のことをまとめたissueを作る
-    * 自分のGitHubアカウント
-    * 開発対象のOSS
-    * イベント中の目標
+  * トレーナーは参加者を1人選んでデモをする
+  * デモの後は各メンターでやってもらう
 
 ## 12:00 昼食（フリークアウトさんご提供の無料ランチ！）
 
@@ -185,49 +188,60 @@ OSSとします。
 
 ## 13:30 OSSの開発参加方法紹介1
 
+目的：
+
+  * 詳細を知らないプログラムの直し方を知る
+
+やること：
+
+  * [デバッグ力: よく知らないプログラムの直し方 - ククログ(2011-12-06)](http://www.clear-code.com/blog/2011/12/6.html)を説明
+
 ## 13:45 開発
 
 目的：
 
-  * ?
+  * 「自分が開発に参加したい」OSSの開発に参加すること
 
 目的達成のために達成したいこと：
 
-  * ?
+  * 自分の抱える問題を解決することでOSSの開発に参加する
+  * ↑を実現するためにメンターがサポートする
 
 やること：
 
-  * 開発中に以下のことをしたら目標を書いたissueのコメントにそのことについて書く
-    * ?
+  * 作業ログをできるだけ残す
+    * メンターからのフィードバックを得やすくするため
+  * issue/pull requestを出す前にメンターから最終チェックをしてもらう
+    * メンターからフィードバックをもらうため
+    * 自分の考えを整理してより開発者にとってうれしい報告にするため
 
 ## 16:50 休憩
 
 10分休憩。
 
-  * [アンケート](TODO)
-    を書けるところは今後の休憩の時に随時書いていってねと連絡する。
-    （アンケートはタブを閉じても回答を再開可能。）
-
 ## 17:00 ふりかえり
 
 目的：
 
-  * ?
+  * 参加者のよい行動を伸ばすため
+  * 参加者が困っていることを解決するため
+  * 参加者が見過ごしている問題（= 解決するべき問題）を気づかせるため
+  * 参加者が明日進むべき先を目指すため
 
 目的達成のために達成したいこと：
 
-  * トレーナーはスライドを使って↓に書いているやり方を説明する。
-    （スライドはretrospective/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-retrospective/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-retrospective)
+  * 参加者の作業ログを元にメンターが参加者をサポートする。
 
 やること：
 
+  * トレーナーはスライドを使って↓に書いているやり方を説明する。
+    （スライドはretrospective1/や↓を参照。）
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-retrospective1/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-retrospective1)
   * 1メンターあたり2参加者をフォローする
   * 参加者は1人ずつ自分のissueに書いたことをメンターに説明する
     * メンターは参加者の理解を深めるように質問する
     * どういうこと？まとめるとこういうことかな？
-  * 参加者の状況に合わせて？する
 
 ## 17:30 まとめ
 
@@ -239,9 +253,9 @@ OSSとします。
 目的達成のために達成したいこと：
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
-    （スライドはconclusion/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-conclusion/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-conclusion)
+    （スライドはconclusion1/や↓を参照。）
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-conclusion1/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-conclusion1)
 
 やること：
 
