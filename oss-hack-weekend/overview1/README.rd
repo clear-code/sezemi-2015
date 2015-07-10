@@ -1,7 +1,7 @@
-= SEゼミ2015 - OSS Hack Weekend - 概要
+= SEゼミ2015 - OSS Hack Weekend - 1日目の概要
 
 2015年のSEゼミの「プログラミングが好きな学生のための勉強会 - OSS Hack
-Weekend」のイベント概要と進め方の説明。
+Weekend」の1日目のイベント概要と進め方の説明。
 
 == ライセンス
 
@@ -25,9 +25,9 @@ CC BY-SA 4.0
 
 === インストール
 
-  gem install rabbit-slide-kou-sezemi-2015-oss-hack-weekend-overview
+  gem install rabbit-slide-kou-sezemi-2015-oss-hack-weekend-overview1
 
 === 表示
 
-  rabbit rabbit-slide-kou-sezemi-2015-oss-hack-weekend-overview.gem
+  rabbit rabbit-slide-kou-sezemi-2015-oss-hack-weekend-overview1.gem
 
