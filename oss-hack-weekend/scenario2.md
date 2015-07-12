@@ -96,12 +96,12 @@
 10分休憩
 
   * pull requestを出す前に最終チェックをしたメンターの人にpull requestを紹介してもらう準備をする。
-  * 具体的には[clear-code/sezemi-2015 issue #23](https://github.com/clear-code/sezemi-2015/issues/23)に書き込んで欲しい。
+  * 具体的には[clear-code/sezemi-2015 issue #73](https://github.com/clear-code/sezemi-2015/issues/73)に書き込んで欲しい。
   * pull requestを出したけどまだ↑に書き込まれていない参加者は最終チェックをしたメンターの人に書いてと頼んで欲しい。
 
 ## 16:10 pull request紹介
 
-  * [clear-code/sezemi-2015 issue #23](https://github.com/clear-code/sezemi-2015/issues/23)を順に見ながら最終チェックをしたメンターに紹介してもらう。Tシャツをまだもらっていない人にはTシャツをプレゼント。
+  * [clear-code/sezemi-2015 issue #73](https://github.com/clear-code/sezemi-2015/issues/73)を順に見ながら最終チェックをしたメンターに紹介してもらう。Tシャツをまだもらっていない人にはTシャツをプレゼント。
 
 ## 16:50 質疑応答
 
