@@ -20,8 +20,8 @@
 
   * トレーナーはスライドを使って↓に書いているやり方を説明する。
     （スライドはoverview2/や↓を参照。）
-    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-overview1/)
-    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-overview1)
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-overview2/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-overview2)
 
 ## 10:20 開発
 
@@ -112,6 +112,17 @@
        * 紹介してくれるメンターは[clear-code/sezemi-2015 issue #24](https://github.com/clear-code/sezemi-2015/issues/24)に書き込んで欲しい。
 
 ## 17:20 クロージング
+
+目的：
+
+  * いい気分で終わる
+
+やること：
+
+  * トレーナーはスライドを使ってクロージングする。
+    （スライドはconclusion2/や↓を参照。）
+    * [スライド on Rabbit Slide Show](http://slide.rabbit-shocker.org/authors/kou/sezemi-2015-oss-hack-weekend-conclusion2/)
+    * [スライド on SlideShare](http://www.slideshare.net/kou/sezemi-2015-oss-hack-weekend-conclusion2)
 
 ## 17:30 アンケート記入
 
